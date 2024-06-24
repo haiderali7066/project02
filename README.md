@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haider-ali
 - 👀 I’m interested in ... Codings
-- 🌱 I’m currently learning ... koltin
+- 🌱 I’m currently learning ... React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
